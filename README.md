@@ -1,2 +1,4 @@
 # network-scanning
-scan  any network using  this code
+scan  any network using  this [scanning.py] file
+
+ 
