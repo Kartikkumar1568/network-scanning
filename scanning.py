@@ -1,4 +1,8 @@
 import subprocess
+import  pyfiglet
+
+text = pyfiglet.figlet_format("parrot")
+print(text)
 
 def list_wifi_networks():
     try:
